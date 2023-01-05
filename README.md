@@ -4,5 +4,5 @@
 
 ### Where can you find me?
 * Discord: Thea#2632
-* Twitter: @nyanthighs
-* Mastodon : @thea@uwu.social
+* Twitter: @nyaathea
+* Mastodon : @thea@tech.lgbt
