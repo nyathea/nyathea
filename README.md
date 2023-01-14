@@ -1,6 +1,6 @@
 ### Hi, im thea
 
-**Im into jailbreaking iOS devices and some homebrew as well.**
+**Im into iOS devices and nintendo consoles as well.**
 
 Mostly messing with twitter client stuff atm.
 
