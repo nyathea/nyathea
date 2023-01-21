@@ -1,6 +1,6 @@
-### Hi, im thea
+### Hiii, im thea
 
-**Im into iOS devices and nintendo consoles as well.**
+**Im into iOS devices and homebrewing**
 
 Mostly messing with twitter client stuff atm.
 
