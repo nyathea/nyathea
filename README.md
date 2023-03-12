@@ -1,4 +1,4 @@
-### Hiii, i go by thea
+### Hiii, my name is thea!
 
 **Im mainly into iOS development and homebrewing but i will pretty much do anything that i find interesting**
 
