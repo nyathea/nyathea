@@ -1,8 +1,8 @@
-### Hiii, im thea
+### Hiii, i go by thea
 
-**Im into iOS devices and other things :3**
+**Im mainly into iOS development and homebrewing but i will pretty much do anything that i find interesting**
 
 ### Where can you find me?
 * Discord: Thea#2632
-* Twitter: @nyaathea
+* Twitter: @remienjoyer
 * Mastodon : @thea@tech.lgbt
