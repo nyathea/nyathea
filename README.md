@@ -1,6 +1,6 @@
-### Hiii, my name is thea!
+### Hello, my name is thea!
 
-**Im mainly into iOS development and homebrew development but i will pretty much do anything that i find interesting**
+**Im interested in macOS and iOS development. Learning swift**
 
 ### Where can you find me?
 * Discord: Thea#2632
