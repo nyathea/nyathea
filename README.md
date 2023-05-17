@@ -1,6 +1,6 @@
 ### Hello, my name is thea!
 
-**Im interested in macOS and iOS development. Learning swift**
+**Im interested in macOS and iOS development.**
 
 ### Where can you find me?
 * Discord: Thea#2632
