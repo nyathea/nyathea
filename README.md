@@ -1,8 +1,8 @@
-### Hello, my name is thea!
+### hi, my name is thea!
 
-**Im interested in macOS and iOS development.**
+**Im into iOS jailbreaking and macOS/linux stuff.**
 
-### Where can you find me?
-* Discord: Thea#2632
-* Twitter: @nyaathea
-* Mastodon : @thea@tech.lgbt (inactive)
+### Where can you contact me?
+* Discord: @nyaathea
+* Mastodon : @thea@tech.lgbt
+* Bluesky : @theaa.baky.social
