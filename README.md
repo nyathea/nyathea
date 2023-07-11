@@ -5,4 +5,4 @@
 ### Where can you contact me?
 * Discord: @nyaathea
 * Mastodon : @thea@tech.lgbt
-* Bluesky : @theaa.baky.social
+* Bluesky : @theaa.bsky.social
