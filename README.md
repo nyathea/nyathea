@@ -1,8 +1,10 @@
-### hi, my name is thea!
+### hiii, my name is thea!
 
-**Im into iOS jailbreaking and macOS/linux stuff.**
+**Im mostly working on my website and other projects :3**
 
-### Where can you contact me?
-* Discord: @nyaathea
-* Mastodon : @thea@tech.lgbt
-* Bluesky : @theaa.bsky.social
+### Where can you get in touch with me?
+* Discord: @flanmoder
+* Twitter: @flanmoder
+* Mastodon: @thea@tech.lgbt (inactive)
+* Bluesky: @nyathea.gay (inactive)
+* email: nyaathea@outlook.com
