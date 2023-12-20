@@ -1,6 +1,6 @@
 ### hiii, my name is thea!
 
-**Im mostly working on my website and other projects :3**
+**Im mostly working on my website and homebrew development.**
 
 ### Where can you get in touch with me?
 * Discord: @flanmoder
