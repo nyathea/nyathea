@@ -3,8 +3,8 @@
 **Im mostly working on my website and homebrew development.**
 
 ### Where can you get in touch with me?
-* Discord: @flanmoder
-* Twitter: @flanmoder
+* Discord: @theamoder
+* Twitter: @theamoder
 * Mastodon: @thea@tech.lgbt (inactive)
-* Bluesky: @nyathea.gay (inactive)
+* Bluesky: @flan.cafe (inactive)
 * email: nyaathea@outlook.com
