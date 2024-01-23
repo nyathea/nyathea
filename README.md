@@ -1,10 +1,7 @@
-### hiii, my name is thea!
-
-**Im mostly working on my website and homebrew development.**
+### hiii, my name is thea! :3
 
 ### Where can you get in touch with me?
-* Discord: @theamoder
-* Twitter: @theamoder
+* Discord: @nyathea
+* Twitter: @theameoww
 * Mastodon: @thea@tech.lgbt (inactive)
 * Bluesky: @flan.cafe (inactive)
-* email: nyaathea@outlook.com
