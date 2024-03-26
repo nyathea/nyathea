@@ -1,7 +1,7 @@
 ### hello, my name is thea! :3
 
 ### Where can you get in touch with me?
-* Discord: @theameoww
+* Discord: @nyathea
 * Twitter: @theameoww
 * Whispy: @thea
 
