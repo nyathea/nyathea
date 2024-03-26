@@ -1,7 +1,9 @@
-### hiii, my name is thea! :3
+### hello, my name is thea! :3
 
 ### Where can you get in touch with me?
-* Discord: @nyathea
+* Discord: @theameoww
 * Twitter: @theameoww
-* Mastodon: @thea@tech.lgbt (inactive)
-* Bluesky: @flan.cafe (inactive)
+* Whispy: @thea
+
+### Currently working on:
+* Casper - A Whispy Client for iOS devices (no eta)
