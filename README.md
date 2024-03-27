@@ -5,5 +5,5 @@
 * Twitter: @theameoww
 * Whispy: @thea
 
-### Currently working on:
-* Casper - A Whispy Client for iOS devices (no eta)
+### Working on:
+* Casper - Whispy Client for iOS devices
