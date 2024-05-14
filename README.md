@@ -2,8 +2,6 @@
 
 ### Where can you get in touch with me?
 * Discord: @nyathea
-* Twitter: @theameoww
+* Twitter: @nyaathea
 * Whispy: @thea
-
-### Working on:
-* Casper - Whispy Client for iOS devices
+* Bluesky: @flan.cafe
