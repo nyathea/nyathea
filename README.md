@@ -1,3 +1,5 @@
 ### hello, my name is thea! :3
 
-Not much here for now but stay tuned..
+// 22 yr old
+// iOS App Tinkerer
+// Amateur dev
