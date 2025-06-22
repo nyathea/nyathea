@@ -1,6 +1,6 @@
 # Hii, my name is Thea! (aka @nyaathea on Twitter/X)
 
-Welcome to my GitHub profile! /ᐠ - ˕ -マ Ⳋ
+Welcome to my GitHub profile!
 
 ---
 
@@ -17,4 +17,3 @@ Welcome to my GitHub profile! /ᐠ - ˕ -マ Ⳋ
 ---
 
 Feel free to check out my repos if you're interested. Thanks for the support!  
-/ᐠ˵- ⩊ -˵マ
