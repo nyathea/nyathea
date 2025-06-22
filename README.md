@@ -1,13 +1,20 @@
-# Hii, my name is Thea!
+# Hii, my name is Thea! (aka @nyaathea on Twitter/X)
 
-⊹ ࣪ ˖ Welcome to my GitHub profile :3 ⊹ ࣪ ˖
-
-## What I'm Working On
-
-- Working on `TwitterLegacyPatcher` which is an big effort to tweak old Twitter/X versions to work again in modern day. with the use of compatibility fixes and an api shim that makes it possible to use it on older devices again after being broken in early 2025.
-- Supporting development of `NeoFreeBird`, which is an Tweaked iOS app that restores the old twitter icons, language bundles, and more from older Twitter versions. it also includes an modified BHTwitter with a couple of new features as well. originally started as an project from me called `FreeBird` in 2024.
-- I will soon dive into Swift and iOS development as well
+Welcome to my GitHub profile! /ᐠ - ˕ -マ Ⳋ
 
 ---
 
-Feel free to check out my repos if you're interested, thanks for the support! /ᐠ˵- ⩊ -˵マ
+## ⊹ ࣪ ˖ What I'm Working On ⊹ ࣪ ˖
+
+- **[TwitterLegacyPatcher](https://github.com/nyathea/TwitterLegacyPatcher)**<br>
+  A big effort to tweak old Twitter/X versions so they work again in modern times! Using compatibility fixes and an API shim, this project brings life back to older devices, even after official support broke in early 2025.
+
+- **[NeoFreeBird](https://github.com/nyathea/NeoFreeBird)**<br>
+  A tweaked iOS app that restores old Twitter icons, language bundles, and more from old Twitter versions. It also includes a modified BHTwitter fork with some new features. this started out as my project "FreeBird" back in early 2024
+
+- Soon, I’ll be diving into Swift and iOS development to create my own apps as well
+
+---
+
+Feel free to check out my repos if you're interested. Thanks for the support!  
+/ᐠ˵- ⩊ -˵マ
