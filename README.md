@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
----
-
 ## ⊹ ࣪ ˖ What I'm Working On ⊹ ࣪ ˖
 
 - **[TwitterLegacyPatcher](https://github.com/nyathea/TwitterLegacyPatcher)**<br>
@@ -13,7 +11,3 @@ Welcome to my GitHub profile!
   A tweaked iOS app that restores old Twitter icons, language bundles, and more from old Twitter versions. It also includes a modified BHTwitter fork with some new features. this started out as my project "FreeBird" back in early 2024
 
 - Soon, I’ll be diving into Swift and iOS development to create my own apps as well
-
----
-
-Feel free to check out my repos if you're interested. Thanks for the support!  
