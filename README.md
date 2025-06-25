@@ -1,8 +1,8 @@
-# Hii, my name is Thea! (aka @nyaathea on Twitter/X)
+# Hii, my name is Thea!
 
 Welcome to my GitHub profile!
 
-## ⊹ ࣪ ˖ What I'm Working On ⊹ ࣪ ˖
+## What I'm Working On
 
 - **[TwitterLegacyPatcher](https://github.com/nyathea/TwitterLegacyPatcher)**<br>
   A big effort to tweak old Twitter/X versions so they work again in modern times! Using compatibility fixes and an API shim, this project brings life back to older devices, even after official support broke in early 2025.
