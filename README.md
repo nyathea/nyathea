@@ -4,10 +4,8 @@ Welcome to my GitHub profile!
 
 ## What I'm Working On
 
-- **[TwitterLegacyPatcher](https://github.com/nyathea/TwitterLegacyPatcher)**<br>
-  A big effort to tweak old Twitter/X versions so they work again in modern times! Using compatibility fixes and an API shim, this project brings life back to older devices, even after official support broke in early 2025.
+- **[LegacyBird](https://github.com/nyathea/LegacyBird)**<br>
+  Tweak for legacy Twitter/X versions so they work once again. Using compatibility fixes, this project brings life back to older twitter versions.
 
-- **[NeoFreeBird](https://github.com/nyathea/NeoFreeBird)**<br>
+- **[NeoFreeBird](https://github.com/actuallyaridan/NeoFreeBird)**<br>
   A tweaked iOS app that restores old Twitter icons, language bundles, and more from old Twitter versions. It also includes a modified BHTwitter fork with some new features. this started out as my project "FreeBird" back in early 2024
-
-- Soon, I’ll be diving into Swift and iOS development to create my own apps as well
