@@ -1,3 +1,5 @@
-# Hi, my name is Thea!!
+# Hi, my name is Thea !!
 
-Welcome to my GitHub ! meow :3 
+i have a lot of interest projects planned maybe ?
+
+im mostly known for being an developer for the twitter mod, NeoFreeBird.
