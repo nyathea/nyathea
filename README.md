@@ -1,5 +1,5 @@
-# Hi, my name is Thea !!
+# Thea 🐾
 
-i have a lot of interest projects planned maybe ?
+learning to code in swift and obj-c for apple platforms. i like to make tweaks and stuff.
 
-im mostly known for being an developer for the twitter mod, NeoFreeBird.
+no ETA's
