@@ -1,5 +1,7 @@
 # Thea 🐾
 
-learning swift for apple platforms. and obj-c for jailbreak tweaks.
+Im interested in reverse engeneering apple devices and making tweaks.
 
-no ETA 
+Just anything that interests me...
+
+Im working on a modded Twitter iOS app called NeoFreeBird
