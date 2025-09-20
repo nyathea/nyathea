@@ -1,5 +1,5 @@
 # Thea 🐾
 
-learning swift and obj-c for apple platforms. i like to make tweaks and stuff.
+learning swift for apple platforms. and obj-c for jailbreak tweaks.
 
-no ETA wen
+no ETA 
