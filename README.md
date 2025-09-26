@@ -1,5 +1,6 @@
 # Thea 🐾
 
-Im interested in reverse engeneering apple devices and making tweaks.
+Im interested in reverse-engeneering apple software and making tweaks for iOS.
 
-Just anything that interests me...
+Discord:
+[@nyathea](https://discord.com/users/904461559751925812)
