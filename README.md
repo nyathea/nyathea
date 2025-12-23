@@ -1,3 +1,1 @@
-# Thea 🐾
-
-im workin on some stuffs
+![Banner](IMG_4614.jpeg)
